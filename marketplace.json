@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "my-claude-marketplace",
+  "description": "Personal Claude Code plugin marketplace",
+  "owner": {
+    "name": "Daniel Huang"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "description": "Engineering workflow skills from Matt Pocock",
+      "author": {
+        "name": "Matt Pocock"
+      },
+      "category": "development",
+      "source": {
+        "source": "github",
+        "repo": "mattpocock/skills"
+      },
+      "homepage": "https://github.com/mattpocock/skills"
+    }
+  ]
+}
