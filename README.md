@@ -16,6 +16,7 @@ Personal Claude Code plugin marketplace for Daniel Huang.
 | [auggie](https://github.com/nodoubt0322/my-claude-marketplace/tree/main/plugins/auggie) | Auggie MCP server for codebase retrieval and AI-assisted development | Daniel Huang |
 | [impeccable](https://impeccable.style) | Design fluency for frontend development: 23 commands for polish, audit, critique, etc. | Paul Bakaus |
 | [mattpocock-skills](https://github.com/mattpocock/skills) | Engineering workflow skills | Matt Pocock |
+| [gstack](https://github.com/garrytan/gstack) | Garry Tan's exact Claude Code setup: 23 tools serving as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | Garry Tan |
 | [aws-agents](https://github.com/aws/agent-toolkit-for-aws) | Build & operate AI agents on AWS with Bedrock AgentCore | Amazon Web Services |
 | [aws-core](https://github.com/aws/agent-toolkit-for-aws) | IaC and core AWS service workflows | Amazon Web Services |
 | [aws-data-analytics](https://github.com/aws/agent-toolkit-for-aws) | Data lake, analytics, ETL with S3/Glue/Athena | Amazon Web Services |
