@@ -21,6 +21,21 @@
       "homepage": "https://github.com/obra/superpowers"
     },
     {
+      "name": "auggie",
+      "displayName": "Auggie",
+      "description": "Auggie MCP server for codebase retrieval and AI-assisted development",
+      "author": {
+        "name": "Daniel Huang"
+      },
+      "category": "development",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nodoubt0322/my-claude-marketplace.git",
+        "path": "plugins/auggie",
+        "ref": "main"
+      }
+    },
+    {
       "name": "mattpocock-skills",
       "description": "Engineering workflow skills from Matt Pocock",
       "author": {
