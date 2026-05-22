@@ -118,6 +118,21 @@
         "ref": "main"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
+    },
+    {
+      "name": "my-collections",
+      "displayName": "My Collections",
+      "description": "Generates comprehensive Traditional Chinese documentation for any installed Claude Code skill",
+      "author": {
+        "name": "Daniel Huang"
+      },
+      "category": "development",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nodoubt0322/my-claude-marketplace.git",
+        "path": "plugins/my-collections",
+        "ref": "main"
+      }
     }
   ]
 }
