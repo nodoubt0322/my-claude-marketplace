@@ -1,6 +1,7 @@
 ---
 name: skill-doc-writer
-description: Generates comprehensive Traditional Chinese documentation for any installed Claude Code skill. Covers feature overview, when to trigger, detailed usage examples with copy-paste prompts, and known limitations. TRIGGER when user says: "幫我寫 X 的說明", "X skill 怎麼用", "為 X 建立文檔", "解釋 X 的功能", "我想了解 X skill", "給我 X 的使用範例". Invoke whenever user wants to understand, document, or learn how to use any installed Claude Code skill — even if they don't say "documentation" explicitly.
+description: |
+  Generates comprehensive Traditional Chinese documentation for any installed Claude Code skill. Covers feature overview, when to trigger, detailed usage examples with copy-paste prompts, and known limitations. TRIGGER when user says: "幫我寫 X 的說明", "X skill 怎麼用", "為 X 建立文檔", "解釋 X 的功能", "我想了解 X skill", "給我 X 的使用範例". Invoke whenever user wants to understand, document, or learn how to use any installed Claude Code skill — even if they don't say "documentation" explicitly.
 ---
 
 此 skill 為已安裝的 Claude Code skill 生成完整的繁體中文使用文檔，讓用戶快速掌握 skill 的功能與最佳使用方式。
