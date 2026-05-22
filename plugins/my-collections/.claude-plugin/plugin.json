@@ -1,0 +1,8 @@
+{
+  "name": "my-collections",
+  "displayName": "My Collections",
+  "description": "Generates comprehensive Traditional Chinese documentation for any installed Claude Code skill",
+  "skills": [
+    "./skills/skill-doc-writer"
+  ]
+}
