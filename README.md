@@ -21,6 +21,7 @@ Personal Claude Code plugin marketplace for Daniel Huang.
 | [aws-core](https://github.com/aws/agent-toolkit-for-aws) | IaC and core AWS service workflows | Amazon Web Services |
 | [aws-data-analytics](https://github.com/aws/agent-toolkit-for-aws) | Data lake, analytics, ETL with S3/Glue/Athena | Amazon Web Services |
 | [my-collections](https://github.com/nodoubt0322/my-claude-marketplace/tree/main/plugins/my-collections) | Generates Traditional Chinese documentation for any installed Claude Code skill | Daniel Huang |
+| [taste-skill](https://github.com/Leonxlnx/taste-skill) | Anti-slop frontend design skill for landing pages, portfolios, and redesigns | Leon |
 
 ## Install a Plugin
 
