@@ -65,7 +65,7 @@ description: |
 
 按下方對應模板撰寫。完成後：
 1. **直接在對話中顯示完整文檔**
-2. **儲存到** `~/.claude/skill-docs/<skill-name>-doc.md`（目錄不存在則建立）
+2. **儲存到** `./AI/skills_guide/<skill-name>-doc.md`（目錄不存在則建立）
 3. 告知用戶儲存路徑
 
 ---
